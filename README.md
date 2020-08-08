@@ -30,7 +30,7 @@ Hi there, I'm Denis - aka KovaSs 👋
 <br />
 <br />
 
-<img align="left" alt="KovaSs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KovaSs&show_icons=true&hide_border=true" />
+<img align="left" alt="KovaSs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KovaSs&show_icons=true&hide_border=true&&count_private=true" />
 
 [website]: https://codeSTACKr.com
 [vk]: https://vk.me/kovass
