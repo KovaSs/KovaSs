@@ -32,13 +32,9 @@ Hi there, I'm Denis - aka KovaSs 👋
 
 <img align="left" alt="KovaSs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KovaSs&show_icons=true&hide_border=true&&count_private=true" />
 
-[website]: https://codeSTACKr.com
-[vk]: https://vk.me/kovass
 [reactcliui]: https://github.com/eternal-system/react-cli
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/den.o_0.isaev
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[vk]: https://vk.me/kovass
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
