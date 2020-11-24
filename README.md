@@ -1,5 +1,7 @@
 Hi there, I'm Denis - aka KovaSs 👋
 
+![](https://komarev.com/ghpvc/?username=KovaSs)
+
 ## I'm a Husband, Developer, and Teacher!
 - 🔭 I’m currently working on a [react-cli-ui][reactcliui]!
 - 🌱 I’m currently learning everything 🤣
