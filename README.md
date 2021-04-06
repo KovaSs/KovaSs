@@ -13,6 +13,7 @@ Hi there, I'm Denis - aka KovaSs 👋
 
 [<img align="left" alt="KovaSs | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][vk]
 [<img align="left" alt="KovaSs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KovaSs | HH" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][hh]
 
 <br />
 
@@ -37,4 +38,5 @@ Hi there, I'm Denis - aka KovaSs 👋
 [reactcliui]: https://github.com/eternal-system/react-cli
 [instagram]: https://www.instagram.com/den.o_0.isaev
 [vk]: https://vk.me/kovass
+[hh]: https://hh.ru/resume/0b1e6a1eff0598c3430039ed1f6f53304d3832
 
