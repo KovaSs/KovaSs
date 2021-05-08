@@ -33,7 +33,7 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 <br />
 <br />
 
-<img align="left" alt="KovaSs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KovaSs&show_icons=true&hide_border=true&&count_private=true" />
+<img align="left" alt="KovaSs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KovaSs&show_icons=true&hide_border=true&&count_private=true&theme=dark" />
 
 [reactcliui]: https://github.com/eternal-system/react-cli
 [instagram]: https://www.instagram.com/den.o_0.isaev
