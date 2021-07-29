@@ -11,8 +11,9 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 
 ### Connect with me:
 
-[<img align="left" alt="KovaSs | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][vk]
 [<img align="left" alt="KovaSs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KovaSs | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][vk]
+[<img align="left" alt="KovaSs | Telegramm" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/telegram/telegram.png" />][hh]
 [<img align="left" alt="KovaSs | HH" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][hh]
 
 <br />
@@ -39,4 +40,4 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 [instagram]: https://www.instagram.com/den.o_0.isaev
 [vk]: https://vk.me/kovass
 [hh]: https://hh.ru/resume/0b1e6a1eff0598c3430039ed1f6f53304d3832
-
+[telegram]: https://t.me/KovaSs
