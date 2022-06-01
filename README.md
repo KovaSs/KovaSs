@@ -1,4 +1,4 @@
-Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px">
+Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px" height="25px">
 
 ![](https://komarev.com/ghpvc/?username=KovaSs)
 
