@@ -2,7 +2,7 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 
 ![](https://komarev.com/ghpvc/?username=KovaSs)
 
-## I'm a Husband, Developer, and Teacher!
+## I'm a Developer
 - 🔭 I’m currently working on a [react-cli-ui][reactcliui]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -15,7 +15,7 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 [<img align="left" alt="KovaSs | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][vk]
 [<img align="left" alt="KovaSs | Telegramm" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/telegram/telegram.png" />][telegram]
 [<img align="left" alt="KovaSs | HH" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][hh]
-[<img align="left" alt="KovaSs | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="KovaSs | gitlab" width="22px" src="https://www.jcs-profile.com/images/icons/gitlab.svg" />][gitlab]
 
 <br />
 
