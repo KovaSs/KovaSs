@@ -3,7 +3,6 @@ Hi there, I'm Denis - aka KovaSs <img src="https://raw.githubusercontent.com/ext
 ![](https://komarev.com/ghpvc/?username=KovaSs)
 
 ## I'm a Developer
-- 🔭 I’m currently working on a [react-cli-ui][reactcliui]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
